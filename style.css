@@ -28,7 +28,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #f3f4fb;
+    border: 1px solid gray;
     width: 80%;
     padding:10px 5px;
     margin-top: 10px;
